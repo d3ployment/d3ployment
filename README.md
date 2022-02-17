@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @d3ployment
 - 👀 I’m interested in DevOps and automation
-- 🌱 I’m currently learning Kubernetes and monitoring
+- 🌱 I’m currently learning observability
 - 📫 How to reach me : contact@ortegaguillaume.fr
